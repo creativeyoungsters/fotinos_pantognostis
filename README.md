@@ -12,4 +12,4 @@
 5. Μία οθόνη Led (IIC I2C TWI 1602 16x2 16 Pins LCD Dispay Screen Module)
 6. Έναν κινητήρα (Micro SG90 Servo Motor)
 7. Καλώδια
-8. Μακετόχαρτο
+8. Μακετόχαρτο 5mm 50x70 (2 κομμάτια)
